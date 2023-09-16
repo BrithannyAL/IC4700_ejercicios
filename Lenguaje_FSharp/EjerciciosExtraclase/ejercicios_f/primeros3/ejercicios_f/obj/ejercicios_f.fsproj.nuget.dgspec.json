@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USUARIO\\Desktop\\ejercicios_f\\ejercicios_f\\ejercicios_f.fsproj": {}
+    "C:\\Users\\USUARIO\\Documents\\GitHub\\IC4700_ejercicios\\Lenguaje_FSharp\\EjerciciosExtraclase\\ejercicios_f\\primeros3\\ejercicios_f\\ejercicios_f.fsproj": {}
   },
   "projects": {
-    "C:\\Users\\USUARIO\\Desktop\\ejercicios_f\\ejercicios_f\\ejercicios_f.fsproj": {
+    "C:\\Users\\USUARIO\\Documents\\GitHub\\IC4700_ejercicios\\Lenguaje_FSharp\\EjerciciosExtraclase\\ejercicios_f\\primeros3\\ejercicios_f\\ejercicios_f.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\ejercicios_f\\ejercicios_f\\ejercicios_f.fsproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\GitHub\\IC4700_ejercicios\\Lenguaje_FSharp\\EjerciciosExtraclase\\ejercicios_f\\primeros3\\ejercicios_f\\ejercicios_f.fsproj",
         "projectName": "ejercicios_f",
-        "projectPath": "C:\\Users\\USUARIO\\Desktop\\ejercicios_f\\ejercicios_f\\ejercicios_f.fsproj",
+        "projectPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\IC4700_ejercicios\\Lenguaje_FSharp\\EjerciciosExtraclase\\ejercicios_f\\primeros3\\ejercicios_f\\ejercicios_f.fsproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Desktop\\ejercicios_f\\ejercicios_f\\obj\\",
+        "outputPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\IC4700_ejercicios\\Lenguaje_FSharp\\EjerciciosExtraclase\\ejercicios_f\\primeros3\\ejercicios_f\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bU4GwYHovE+rQgVnIjO6xQfXM8Btv03fBMjXSW+VTT8MlLk8ScOMZSJWTjDlXhhTuhg+gwvspCHw1n7l/SYMZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USUARIO\\Documents\\GitHub\\IC4700_ejercicios\\Lenguaje_FSharp\\EjerciciosExtraclase\\ejercicios_f\\primeros3\\ejercicios_f\\ejercicios_f.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USUARIO\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
